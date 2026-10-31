@@ -8,7 +8,7 @@ This software is a simple command-line program written in TypeScript. It prints 
 
 My purpose for creating this software was to set up a working TypeScript development environment, understand how the TypeScript compiler turns .ts files into JavaScript, and practice using static types in a small project.
 
-[Software Demo Video]()
+[Software Demo Video](https://www.youtube.com/watch?v=VUEZ2dx-PUs)
 
 # Development Environment
 
